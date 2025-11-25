@@ -1,0 +1,11 @@
+{
+    "studentNumber": "你的学号",
+    "contract": {
+        "name": "HelloWorld",
+        "path": "../contracts/HelloWorld.sol"
+    },
+    "network": {
+        "url": "http://localhost:8545",
+        "chainId": 31337
+    }
+}

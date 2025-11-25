@@ -1,0 +1,22 @@
+# 智能合约自动化测试项目
+
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Solidity](https://img.shields.io/badge/Solidity-^0.8.0-green)
+![Hardhat](https://img.shields.io/badge/Hardhat-Testing-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Open--Source-success)
+
+## 项目简介
+本项目是基于Windows操作系统的Solidity智能合约自动化测试环境，提供完整的测试框架和工具链，适合区块链开发学习和实验。
+
+## 🎯 项目特色
+- ✅ 完整的智能合约测试环境搭建
+- ✅ 详细的实验步骤记录和文档
+- ✅ Windows环境优化配置
+- ✅ 教育导向的设计理念
+- ✅ 完整的GitHub工作流实践
+
+## 技术栈
+- **区块链框架**: Hardhat
+- **智能合约语言**: Solidity
+- **测试语言**: Python 3.8
+- **开发环境**: PyCharm + Anaconda
